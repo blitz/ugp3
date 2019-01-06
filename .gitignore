@@ -1,0 +1,7 @@
+*.cmake
+Makefile
+CMakeFiles
+/CMakeCache.txt
+/Contrib/ugp3-extractor/ugp3-extractor
+*.a
+/Frontends/ugp3/ugp3
